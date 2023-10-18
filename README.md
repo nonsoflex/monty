@@ -1,1 +1,1 @@
-https://intranet.alxswe.com/projects/249
+C - Stacks, Queues - LIFO, FIFO
